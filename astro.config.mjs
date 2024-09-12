@@ -19,6 +19,8 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'DSA stuff', slug: 'dsa/example' },
+						{ label: 'Doubly Linked List', slug: 'dsa/doubly' },
+						{ label: 'Detailed Doubly Linked List', slug: 'dsa/detaileddoubly' },
 					],
 				},
 				{
