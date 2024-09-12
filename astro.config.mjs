@@ -34,6 +34,10 @@ export default defineConfig({
 					label: 'SQL',
 					autogenerate: { directory: 'SQL' },
 				},
+				{
+					label: 'Strings',
+					autogenerate: { directory: 'Strings' },
+				},
 			],
 			customCss: [
 			'./src/styles/theme.css'

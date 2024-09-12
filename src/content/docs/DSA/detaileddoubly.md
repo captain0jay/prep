@@ -1,6 +1,6 @@
 ---
 title: Detailed Doubly Linked List in C++
-discription: Learn about doubly linked lists in C++ and how to implement them.
+description: Learn about doubly linked lists in C++ and how to implement them.
 ---
 
 ### 1. **Node Structure**
