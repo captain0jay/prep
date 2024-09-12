@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://captain0jay.github.io/perf',
+	site: 'https://captain0jay.github.io/prep/',
 	integrations: [
 		starlight({
 			title: 'Captain Jay',
