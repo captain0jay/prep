@@ -3,7 +3,7 @@ title: String
 description: String
 ---
 
-To solve string-related Data Structure and Algorithm (DSA) problems in Python, you can utilize a variety of built-in functions and methods. Below is a comprehensive guide to the most necessary syntax and functions:
+To solvee string-related Data Structure and Algorithm (DSA) problems in Python, you can utilize a variety of built-in functions and methods. Below is a comprehensive guide to the most necessary syntax and functions:
 
 ### Basic String Operations
 
