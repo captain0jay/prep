@@ -32,11 +32,18 @@ export default defineConfig({
 				},
 				{
 					label: 'SQL',
-					autogenerate: { directory: 'SQL' },
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'SQL Cheat Sheet', slug: 'sql/basic' },
+						{ label: 'Example Reference', slug: 'sql/example' },
+					],
 				},
 				{
 					label: 'Strings',
-					autogenerate: { directory: 'Strings' },
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'String', slug: 'strings/string' },
+					],
 				},
 			],
 			customCss: [
